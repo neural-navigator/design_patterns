@@ -2,6 +2,7 @@
 Pattern Name: SingleTon (Mono state pattern)
 Pattern type: Creational Design pattern
 """
+# Solution 2
 
 
 class Borg:

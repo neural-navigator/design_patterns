@@ -1,6 +1,8 @@
 """
-
+Pattern Name: SingleTon
+Pattern Type: Creational
 """
+# Solution 3
 
 
 class SingleTon(object):

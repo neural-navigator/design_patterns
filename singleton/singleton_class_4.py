@@ -2,6 +2,7 @@
 Pattern: Singleton
 Pattern Type: Creational Design Pattern
 """
+# Solution 4
 
 
 class SingleTonMeta(type):
